@@ -60,4 +60,4 @@ To run the notebook:
 
 ---
 
-This README provides a comprehensive overview of the project, guiding users through each phase from data preprocessing to model evaluation and prediction. Feel free to adjust any sections to better fit your project's specifics.
+This README provides a comprehensive overview of the project, guiding users through each phase from data preprocessing to model evaluation and prediction.
